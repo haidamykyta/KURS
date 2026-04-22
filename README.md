@@ -15,3 +15,4 @@ resources/   — ссылки, инструменты, шпаргалки
 | Урок | Тема | Статус |
 |------|------|--------|
 | 01 | Инструменты (Claude, Bolt, GitHub, Vercel, Supabase, Polar) | ✅ |
+| 02 | Mindset & Distribution — почему 10 SaaS без юзеров, кейс $20K | ✅ |
