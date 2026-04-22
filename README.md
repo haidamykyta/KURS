@@ -16,3 +16,4 @@ resources/   — ссылки, инструменты, шпаргалки
 |------|------|--------|
 | 01 | Инструменты (Claude, Bolt, GitHub, Vercel, Supabase, Polar) | ✅ |
 | 02 | Mindset & Distribution — почему 10 SaaS без юзеров, кейс $20K | ✅ |
+| 03 | Найди идею за 48ч — TrustMRR, Reddit Mining, PH, Upwork + фильтр | ✅ |
